@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2974-minimum-number-game](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
