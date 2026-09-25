@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
