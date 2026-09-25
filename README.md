@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0209-minimum-size-subarray-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2974-minimum-number-game](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2974-minimum-number-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
