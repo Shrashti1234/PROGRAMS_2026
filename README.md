@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0209-minimum-size-subarray-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2974-minimum-number-game](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2974-minimum-number-game) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
