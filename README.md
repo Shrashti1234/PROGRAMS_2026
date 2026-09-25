@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0067-add-binary) |
 | [2974-minimum-number-game](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
