@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2974-minimum-number-game](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2974-minimum-number-game) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Sorting
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
 | [2974-minimum-number-game](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -158,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0071-simplify-path) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
