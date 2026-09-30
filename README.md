@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0058-length-of-last-word) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0071-simplify-path) |
 ## Queue
 |  |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
