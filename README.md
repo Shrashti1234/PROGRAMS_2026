@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0258-add-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
 | ------- |
