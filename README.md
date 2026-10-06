@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0036-valid-sudoku) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -85,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0071-simplify-path) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0424-longest-repeating-character-replacement) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Sorting
 |  |
