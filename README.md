@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0036-valid-sudoku) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0071-simplify-path) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
