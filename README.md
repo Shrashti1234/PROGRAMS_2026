@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
