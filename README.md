@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0036-valid-sudoku) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0424-longest-repeating-character-replacement) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0424-longest-repeating-character-replacement) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
