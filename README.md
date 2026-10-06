@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0258-add-digits) |
 | [2974-minimum-number-game](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
