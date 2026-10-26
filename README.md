@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
+| [0704-binary-search](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0704-binary-search) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
