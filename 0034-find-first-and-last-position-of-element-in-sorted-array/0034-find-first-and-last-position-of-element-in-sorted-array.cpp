@@ -1,60 +1,49 @@
-
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        int low = 0, high = nums.size() - 1;
-        int first = -1, last = -1;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (nums[mid] == target) {
-                first = mid;
-                last = mid;
-                break;
+        int low=0,high=(int)nums.size()-1;
+        int first=-1,last=-1;
+        while(low<=high){
+            int m=low+(high-low)/2;
+            if(nums[m]==target){
+                first=m;
+                last=m;
+                int left=low,right=m-1;
+                while(left<=right){
+                    int mid=left+(right-left)/2;
+                    if(nums[mid]==target){
+                        first=mid;
+                        right=mid-1;
+                    }
+                    else{
+                        left=mid+1;
+                    }
+                }
+                left=m+1;
+                right=high;
+                while(left<=right){
+                    int m=left+(right-left)/2;
+                    if(nums[m]==target){
+                        last=m;
+                        left=m+1;
+                    }
+                    else{
+                        right=m-1;
+                    }
+                }
+                return {first,last};
             }
-            else if (nums[mid] < target) {
-                low = mid + 1;
+            if(nums[m]<target){
+                low=m+1;
             }
-            else {
-                high = mid - 1;
-            }
-        }
-
-        if (first == -1) return {-1, -1};
-
-        // Find first position
-        low = 0;
-        high = first;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (nums[mid] == target) {
-                first = mid;
-                high = mid - 1;
-            }
-            else {
-                low = mid + 1;
-            }
-        }
-
-        // Find last position
-        low = last;
-        high = nums.size() - 1;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (nums[mid] == target) {
-                last = mid;
-                low = mid + 1;
-            }
-            else {
-                high = mid - 1;
+            else{
+                high=m-1;
             }
         }
-
-        return {first, last};
+        return {-1,-1};
     }
+
+              
+    
+
 };
