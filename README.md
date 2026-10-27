@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0704-binary-search) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0031-next-permutation) |
+| [0455-assign-cookies](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0455-assign-cookies) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0018-4sum) |
+| [0455-assign-cookies](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0455-assign-cookies) |
 | [2974-minimum-number-game](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -240,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0992-subarrays-with-k-different-integers) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Shrashti1234/PROGRAMS_2026/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
